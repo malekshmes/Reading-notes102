@@ -9,3 +9,4 @@ it's a _**software**_ that can be downloaded on your Pc or you may access it onl
 ## code completion:
 Code completion allows you to start typing, and the code completion
 feature will display possible suggestions based on what you originally typed
+![](image./intellisense.gif)
