@@ -6,9 +6,9 @@
  1. (#)
  3. (-)
  2. (*)
-## to make text **bold** add put it between a _doubled aistreck_
+## to make text **bold** put the text between a _doubled aistreck_
 this is how you add a link to your page:
-you open a bracket and put in the link name then you open paranthies and put in the url, close the paranthies and *done!
+you open a bracket and put in the link name then you open paranthesis and put in the url, close the paranthesis and *done!
 *
 ### You can quote text with a >
 
@@ -18,4 +18,4 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 - HTML
 - CSS
 - JS
-### On *Gethup* you can write Markdown and choose your favorite page theme.
+### On *GitHup* you can write Markdown and choose your favorite page theme.
