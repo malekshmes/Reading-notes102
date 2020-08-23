@@ -1,5 +1,5 @@
-# this is an easy language for creating web pages #
-## it was created in 2004 by John Gruber with Aaron Swartz on the syntax with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)"
+## this is an easy language for creating web pages #
+# it was created in 2004 by _John Gruber_ with _Aaron Swartz_ on the syntax with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)"
 ## what is it like?
 #### it's a way to style and format texts. you can add images and links as well.
 ### you will use non-alphabetic characters such as:
