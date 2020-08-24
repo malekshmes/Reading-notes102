@@ -34,7 +34,7 @@ You should set your username and password once you start
 
 Type the following into Terminal or Command Line:
 
-![img](Capture.png)
+![img](https://github.com/malekshmes/Reading-notes/blob/master/Capture.PNG) 
 #### Check Settings
 
 To check settings, use the git `config --list` command
